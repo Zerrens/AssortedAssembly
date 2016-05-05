@@ -1,0 +1,21 @@
+[
+{
+  "modid": "AssortedAssembly",
+  "name": "Assorted Assembly",
+  "description": "Assorted components for a more challenging and expensive modpack experience",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/Zerrens/",
+  "updateUrl": "",
+  "authorList": [
+    "Velleth"
+  ],
+  "credits": "Velleth",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": [
+
+  ]
+}
+]

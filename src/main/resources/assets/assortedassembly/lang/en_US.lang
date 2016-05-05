@@ -1,0 +1,78 @@
+# Block localizations -------------------------------------------------------------------
+tile.assortedassembly:metal.aluminium.name=Block of Aluminium
+tile.assortedassembly:metal.copper.name=Block of Copper
+tile.assortedassembly:metal.lead.name=Block of Lead
+tile.assortedassembly:metal.nickel.name=Block of Nickel
+tile.assortedassembly:metal.platinum.name=Block of Platinum
+tile.assortedassembly:metal.silver.name=Block of Silver
+tile.assortedassembly:metal.tin.name=Block of Tin
+tile.assortedassembly:metal.titanium.name=Block of Titanium
+tile.assortedassembly:metal.tungsten.name=Block of Tungsten
+tile.assortedassembly:metal.uranium.name=Block of Uranium
+tile.assortedassembly:metal.zinc.name=Block of Zinc
+
+tile.assortedassembly:nonmetal.carbide.name=Block of Tungsten Carbide
+tile.assortedassembly:nonmetal.graphite.name=Block of Graphite
+tile.assortedassembly:nonmetal.silicon.name=Block of Silicon
+
+tile.assortedassembly:alloy.brass.name=Block of Brass
+tile.assortedassembly:alloy.bronze.name=Block of Bronze
+tile.assortedassembly:alloy.electrum.name=Block of Electrum
+tile.assortedassembly:alloy.invar.name=Block of Invar
+tile.assortedassembly:alloy.hsla.name=Block of HSLA Steel
+tile.assortedassembly:alloy.redalloy.name=Block of Red Alloy
+tile.assortedassembly:alloy.steel.name=Block of Steel
+tile.assortedassembly:alloy.tritanium.name=Block of Tritanium
+
+item.assortedassembly:plate.iron.name=Iron Plate
+item.assortedassembly:plate.gold.name=Gold Plate
+item.assortedassembly:plate.aluminium.name=Aluminium Plate
+item.assortedassembly:plate.copper.name=Copper Plate
+item.assortedassembly:plate.lead.name=Lead Plate
+item.assortedassembly:plate.nickel.name=Nickel Plate
+item.assortedassembly:plate.platinum.name=Platinum Plate
+item.assortedassembly:plate.silver.name=Silver Plate
+item.assortedassembly:plate.tin.name=Tin Plate
+item.assortedassembly:plate.titanium.name=Titanium Plate
+item.assortedassembly:plate.tungsten.name=Tungsten Plate
+item.assortedassembly:plate.uranium.name=Uranium Plate
+item.assortedassembly:plate.zinc.name=Zinc Plate
+item.assortedassembly:plate.silicon.name=Silicon Plate
+item.assortedassembly:plate.brass.name=Brass Plate
+item.assortedassembly:plate.bronze.name=Bronze Plate
+item.assortedassembly:plate.electrum.name=Electrum Plate
+item.assortedassembly:plate.invar.name=Invar Plate
+item.assortedassembly:plate.hsla.name=HSLA Steel Plate
+item.assortedassembly:plate.steel.name=Steel Plate
+item.assortedassembly:plate.tritanium.name=Tritanium Plate
+
+item.assortedassembly:screw.iron.name=Iron Screw
+item.assortedassembly:screw.aluminium.name=Aluminium Screw
+item.assortedassembly:screw.copper.name=Copper Screw
+item.assortedassembly:screw.nickel.name=Nickel Screw
+item.assortedassembly:screw.tin.name=Tin Screw
+item.assortedassembly:screw.titanium.name=Titanium Screw
+item.assortedassembly:screw.tungsten.name=Tungsten Screw
+item.assortedassembly:screw.brass.name=Brass Screw
+item.assortedassembly:screw.bronze.name=Bronze Screw
+item.assortedassembly:screw.invar.name=Invar Screw
+item.assortedassembly:screw.hsla.name=HSLA Steel Screw
+item.assortedassembly:screw.steel.name=Steel Screw
+item.assortedassembly:screw.tritanium.name=Tritanium Screw
+
+item.assortedassembly:wire.aluminium.name=Fine Aluminium Wire
+item.assortedassembly:wire.copper.name=Fine Copper Wire
+item.assortedassembly:wire.electrum.name= Fine Electrum Wire
+item.assortedassembly:wire.gold.name=Fine Gold Wire
+item.assortedassembly:wire.iron.name=Fine Iron Wire
+item.assortedassembly:wire.lead.name=Fine Lead Wire
+item.assortedassembly:wire.silver.name=Fine Silver Wire
+item.assortedassembly:wire.titanium.name=Fine Titanium Wire
+item.assortedassembly:wire.tungsten.name=Fine Tungsten Wire
+
+item.assortedassembly:circuit.basic.name=Basic Control Circuit
+item.assortedassembly:circuit.advanced.name=Advanced Control Circuit
+item.assortedassembly:circuit.elite.name=Elite Control Circuit
+item.assortedassembly:circuit.ultimate.name=Ultimate Control Circuit
+
+itemGroup.AssortedAssembly=Assorted Assembly
